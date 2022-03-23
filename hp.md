@@ -1,3 +1,8 @@
+----
+title: hpp
+----
+
+
 # ftm.guru/docs
 _The Guru ecosystem consists of too many Smart Contracts. This page attempts to documemt their use, specifications and guides here._
 ## Previous Docs
