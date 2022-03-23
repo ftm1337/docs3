@@ -36,7 +36,7 @@ heading_anchors: true
 aux_links:
   "Join us on Discord":
     - "//discord.gg/QpyfMarNrV"
-   "Switch theme"
+   "Switch theme":
     - {{<script> const toggleDarkMode = document.querySelector('.js-toggle-dark-mode'); jtd.addEvent(toggleDarkMode, 'click', function(){ if (jtd.getTheme() === 'dark') { jtd.setTheme('light'); toggleDarkMode.textContent = 'Preview dark color scheme'; } else { jtd.setTheme('dark'); toggleDarkMode.textContent = 'Return to the light side'; } }); </script>}}
 
 # Makes Aux links open in a new tab. Default is false
