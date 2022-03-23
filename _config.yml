@@ -1,9 +1,9 @@
+logo: "https://ftm.guru/icons/64.png"
 title: "Guru Network"
 remote_theme: just-the-docs/just-the-docs
 # color_scheme: "dark"
 description: Documentation website of Guru Network.
 baseurl: "/docs3"
-logo: "https://ftm.guru/icons/64.png"
 url: "https://ftm1337.github.io"
 permalink: pretty
 search_enabled: true
