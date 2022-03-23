@@ -1,4 +1,11 @@
+---
+---
 /* {
   color: red !important;
 }
 */
+@import "{{ site.theme }}";
+
+footer {
+  display: none;
+}
