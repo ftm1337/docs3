@@ -1,5 +1,5 @@
 ---
-title: Granchild of Test
+title: Granchild2 of Test
 parent: Child of Test
 grand_parent: Test
 nav_order: 1
